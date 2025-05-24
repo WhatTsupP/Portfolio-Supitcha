@@ -24,7 +24,7 @@
     height: 100vh;
     width: 100%;
     height: 700px;  /* ความสูงของภาพ */
-    background-image: url(https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/484088231_652867117261076_4053757471503375226_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f727a1&_nc_ohc=p6gDJOOUoXgQ7kNvwFdGvaG&_nc_oc=AdnQL6XzFKjHl1UJqsZAy0uud6EemRhaxMDN4VXqRyBtuXkNi12h454HHPR-PpvBUNQ&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=osFHzJSv4qyP9fZ_G8hJGg&oh=00_AfL4IO_pFJ-B5GwlLPP-cZRxqVb6XGbYsdzOLk7bz9mmVg&oe=682670D5);
+    background-image: url(123.jpg); /* URL ของภาพพื้นหลัง */
     background-size: cover;
     background-position: center;
     display: flex;
